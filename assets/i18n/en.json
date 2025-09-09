@@ -1,0 +1,183 @@
+{
+  "English":"English",
+  "French":"French",
+  "Header.Item1": "About Me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "CV_Omar_Bchir_NetAngularEn.pdf",
+  "Loading": "Loading...",
+
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I am a Full Stack Developer with solid experience building web applications using <span class='underline'>.NET and Angular</span>. Over the years, I have worked on complex systems, interactive interfaces, and data-driven solutions, always focusing on performance and user experience. I am committed to writing clean, maintainable, and scalable code, following best practices and modern development standards.",
+  "Banner.ActionBtn": "Say Hi",
+
+  "AboutMe.Title": "About Me",
+  "AboutMe.Paragraphs": [
+    "In my career, I have taken on multiple roles: Full Stack Developer, Backend Developer (.NET/EF Core), Frontend Developer (Angular/Kendo UI), and Collaborator on Technical Projects. I enjoy contributing my knowledge to build solutions that solve real problems and create value for users.",
+    "My capabilities include designing and implementing system improvements, optimizing applications, standardizing development patterns, and introducing ideas that enhance project quality and performance.",
+    "I also enjoy coding side projects for personal use, whether as a hobby or to simplify everyday tasks."
+  ],
+
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Saphir consult",
+      "Title": "Fullstack Developer .Net/Angular",
+      "Date": "February 2021 - September 2023",
+      "Description": [
+      "Contributed to technical decision-making in the development of internal systems.",
+
+      "Collaborated with the team to design and implement scalable software solutions.",
+
+      "Developed and maintained the Statistical Process Controller platform during my internship.",
+
+      "Hired full-time to continue the project and later delivered additional systems: Project Management, Checklist, and Customer Complaints.",
+
+      "Improved system processes by implementing optimizations and standardizing development practices.",
+
+      "Participated in planning and reporting meetings to align technical work with business needs."
+      ]
+    },
+    {
+      "Tab": "Devixi",
+      "Title": "Fullstack Developer .Net/Angular",
+      "Date": "October 2023 - present",
+      "Description": [
+      "Designed and developed two major projects: Yobo and iXITemplate, delivering scalable and maintainable solutions.",
+
+      "Collaborated with the team lead on a data aggregation project, contributing to backend and frontend development.",
+
+      "Improved project workflows by applying best practices in code structure, reusable components, and performance optimization.",
+
+      "Worked across the full stack with .NET, Angular, PostgreSQL, and modern UI frameworks to build efficient business applications."
+      ]
+    },
+    {
+      "Tab": "Freelancer",
+      "Title": "Freelancer : Fullstack Developer .Net/Angular",
+      "Date": "December 2023 - March 2025",
+      "Description": [
+      "Developed and delivered three web applications (Kahraman,Shail,Event Booking) for Katara in collaboration with a partner.",
+
+      "Handled both backend and frontend development, ensuring clean architecture and smooth user experience.",
+
+      "Customized solutions to client requirements, applying best practices in scalability, performance, and UI/UX design.",
+
+      "Gained experience in freelancing workflows, including project planning, communication with stakeholders, and delivering within deadlines."
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "My Projects",
+  "FeatureProjects.Label": "Highlighted Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Yobo",
+      "Description": "A web application for internal company management, covering sales, collections, and tracking processes. The platform was built with <span class='underline'>Angular</span> and <span class='underline'>.NET</span>, providing a scalable and maintainable architecture. It includes features for workflow automation, data management, and reporting, helping streamline daily company operations and improve efficiency.",
+      "imgs": [
+        "assets/images/projects/yobo6.PNG",
+        "assets/images/projects/yobo1.PNG",
+        "assets/images/projects/yobo2.PNG",
+        "assets/images/projects/yobo3.PNG",
+        "assets/images/projects/yobo4.PNG",
+        "assets/images/projects/yobo5.PNG"
+      ],
+      "Technologies": [".Net", "Angular", "Postegre", "Angular Material"]
+    },
+    {
+      "Title": "Booking System (Admin & User Applications)",
+      "Description": "A complete seat reservation and ticketing platform built with <span class='underline'>.NET</span> and <span class='underline'>Angular</span>, composed of two integrated applications:<span class='underline block' >Admin Panel :</span> Enables event organizers to configure events, manage seat maps, track reservations, monitor sales, and oversee users. It includes reporting tools and features for smooth operational management.<span class='underline block'>User Application :</span> Provides customers with an interactive seat map to browse events, select available seats, and securely purchase tickets. The system ensures real-time seat availability and prevents double-bookings, offering a seamless booking experience.This project highlights expertise in full-stack development, API integration, database management, and building scalable applications for both business and end-user needs.",
+      "imgs": [
+        "assets/images/projects/booking1.PNG",
+        "assets/images/projects/booking2.PNG",
+        "assets/images/projects/booking3.PNG",
+        "assets/images/projects/booking4.PNG",
+        "assets/images/projects/booking5.PNG",
+        "assets/images/projects/booking6.PNG"
+      ],
+      "Technologies": [".Net", "Angular", "Sql Server", "Angular Material", "Signal R"]
+    }
+  ],
+
+  "OtherProjects.Title": "More Projects",
+"OtherProjects.Projects": [
+  {
+    "Title": "Statistical Process Control (SPC)",
+    "Description": "Application for quality control management (MSP). Includes capability study with mathematical calculations and Gauss/Henry diagrams, control charts for recording and displaying samples, and batch control for unusual event verification.",
+    "imgs": [],
+    "ghLink": "",
+    "demoLink": "",
+    "Technologies": [".NET Core", "Angular", "SQL Server"]
+  },
+  {
+    "Title": "Project Management",
+    "Description": "System for managing roles, project types, statuses, project properties, phases, and tasks. Includes project progress control using Gantt charts.",
+    "imgs": [],
+    "ghLink": "",
+    "demoLink": "",
+    "Technologies": [".NET 7", "Angular 14", "SQL Server"]
+  },
+  {
+    "Title": "Checklist",
+    "Description": "Application for managing themes, criteria, configurable fields, conformity levels, and checklists. Supports linking checklists with themes/criteria and recording data via structured forms.",
+    "imgs": [],
+    "ghLink": "",
+    "demoLink": "",
+    "Technologies": [".NET 7", "Angular 14", "SQL Server"]
+  },
+  {
+    "Title": "Customer Complaint Management",
+    "Description": "Platform for managing customer complaints, coordinating follow-up, and tracking resolution until closure.",
+    "imgs": [],
+    "ghLink": "",
+    "demoLink": "",
+    "Technologies": [".NET 7", "Angular 14", "SQL Server"]
+  },
+  {
+    "Title": "IXITemplate",
+    "Description": "Base template created for IXIN projects. Includes administrator and user management to standardize and accelerate project development.",
+    "imgs": [],
+    "ghLink": "",
+    "demoLink": "",
+    "Technologies": [".NET 7", "Angular 17", "PostgreSQL"]
+  },
+  {
+    "Title": "Data Loading and Aggregation",
+    "Description": "Project for intercepting data from external APIs and storing it in an internal database for reporting and analysis.",
+    "imgs": [],
+    "ghLink": "",
+    "demoLink": "",
+    "Technologies": [".NET 7", "Angular 17", "PostgreSQL"]
+  },
+  {
+    "Title": "IXIMap",
+    "Description": "Interactive mapping application using Kendo Map to visualize geospatial data with features like zooming, filtering, and overlays.",
+    "imgs": [],
+    "ghLink": "",
+    "demoLink": "",
+    "Technologies": ["Angular", "Kendo UI", ".NET"]
+  },
+  {
+    "Title": "Kahraman",
+    "Description": "Freelance project for Katara. Includes administrator and user management, product management, and product display with detailed views for bidding users.",
+    "imgs": [],
+    "ghLink": "",
+    "demoLink": "",
+    "Technologies": [".NET 7", "Angular 14", "SQL Server"]
+  },
+  {
+    "Title": "Shail",
+    "Description": "Freelance project for Katara. Includes administrator and user management, company account management, and integrated mail management.",
+    "imgs": [],
+    "ghLink": "",
+    "demoLink": "",
+    "Technologies": [".NET 7", "Angular 14", "SQL Server"]
+  }
+],
+  "Contact.Pretitle": "And... Now?",
+  "Contact.Title": "Say Hi!",
+  "Contact.Content": "I will be glad to hear from you if you want to discuss new opportunities. Write to me, and I will respond as soon as I see your message.",
+  "Contact.Btn": "Contact Me"
+}
