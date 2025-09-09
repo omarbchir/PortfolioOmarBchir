@@ -1,0 +1,173 @@
+{
+  "English":"Anglais",
+  "French":"Français",
+  "Header.Item1": "À propos",
+  "Header.Item2": "Expérience",
+  "Header.Item3": "Projets",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Télécharger le CV",
+  "Header.cvName": "CV_Omar_Bchir_NetAngularFr.pdf",
+  "Loading": "Chargement...",
+
+  "Banner.Pretitle": "Bonjour, je m’appelle",
+  "Banner.Description": "Je suis Développeur Full Stack avec une solide expérience dans la création d’applications web basées sur <span class='underline'>.NET et Angular</span>. J’ai travaillé sur des systèmes complexes, des interfaces interactives et des solutions orientées données, en plaçant toujours la performance et l’expérience utilisateur au centre. Je m’engage à produire un code propre, maintenable et évolutif, en respectant les bonnes pratiques et les standards modernes de développement.",
+  "Banner.ActionBtn": "Me contacter",
+
+  "AboutMe.Title": "À propos",
+  "AboutMe.Paragraphs": [
+    "Au cours de ma carrière, j’ai exercé plusieurs fonctions : Développeur Full Stack, Développeur Backend (.NET/EF Core), Développeur Frontend (Angular/Kendo UI) et Collaborateur technique sur divers projets. J’aime mettre mes compétences au service de solutions concrètes qui résolvent des problèmes réels et apportent de la valeur aux utilisateurs.",
+    "Mes compétences couvrent la conception et la mise en place d’améliorations systèmes, l’optimisation d’applications, la standardisation des pratiques de développement et l’introduction de nouvelles idées pour améliorer la qualité et la performance des projets.",
+    "Je prends également plaisir à développer des projets personnels, que ce soit par passion ou pour simplifier des tâches quotidiennes."
+  ],
+
+  "Experience.Title": "Expérience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Saphir Consult",
+      "Title": "Développeur Fullstack .Net/Angular",
+      "Date": "Février 2021 - Septembre 2023",
+      "Description": [
+        "Participation aux choix techniques pour le développement des systèmes internes.",
+        "Conception et mise en place de solutions logicielles évolutives en collaboration avec l’équipe.",
+        "Développement et maintenance de la plateforme de Contrôle Statistique des Procédés (SPC) durant mon stage.",
+        "Recruté en CDI pour poursuivre le projet et livrer par la suite d’autres applications : Gestion de projets, Checklist et Gestion des réclamations clients.",
+        "Amélioration des processus internes grâce à des optimisations et à la standardisation des pratiques de développement.",
+        "Participation aux réunions de planification et de suivi afin d’aligner les aspects techniques sur les besoins métier."
+      ]
+    },
+    {
+      "Tab": "Devixi",
+      "Title": "Développeur Fullstack .Net/Angular",
+      "Date": "Octobre 2023 - Aujourd’hui",
+      "Description": [
+        "Conception et développement de deux projets majeurs : Yobo et iXITemplate, avec des solutions performantes et maintenables.",
+        "Collaboration avec le lead technique sur un projet d’agrégation de données, en contribuant au développement backend et frontend.",
+        "Amélioration des flux de travail en appliquant les meilleures pratiques : structure de code, composants réutilisables et optimisation des performances.",
+        "Intervention sur l’ensemble de la stack technique : .NET, Angular, PostgreSQL et frameworks UI modernes."
+      ]
+    },
+    {
+      "Tab": "Freelance",
+      "Title": "Développeur Fullstack Freelance .Net/Angular",
+      "Date": "Décembre 2023 - Mars 2025",
+      "Description": [
+        "Développement et livraison de trois applications web (Kahraman, Shail, Event Booking) pour Katara en partenariat avec un collaborateur.",
+        "Réalisation complète backend et frontend, avec une architecture claire et une expérience utilisateur fluide.",
+        "Adaptation des solutions aux besoins des clients, en respectant les standards de performance, d’évolutivité et de design UX/UI.",
+        "Expérience renforcée en gestion freelance : planification, communication avec les parties prenantes et respect des délais de livraison."
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "Projets en Vedette",
+  "FeatureProjects.Label": "Projet Principal",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Yobo",
+      "Description": "Application web de gestion interne pour les entreprises, couvrant la gestion des ventes, encaissements et processus de suivi. Développée avec <span class='underline'>Angular</span> et <span class='underline'>.NET</span>, elle repose sur une architecture évolutive et maintenable. Fonctionnalités principales : automatisation des workflows, gestion des données et reporting, permettant d’optimiser les opérations quotidiennes et d’améliorer la productivité.",
+      "imgs": [
+        "assets/images/projects/yobo6.PNG",
+        "assets/images/projects/yobo1.PNG",
+        "assets/images/projects/yobo2.PNG",
+        "assets/images/projects/yobo3.PNG",
+        "assets/images/projects/yobo4.PNG",
+        "assets/images/projects/yobo5.PNG"
+      ],
+      "Technologies": [".Net", "Angular", "PostgreSQL", "Angular Material"]
+    },
+    {
+      "Title": "Système de Réservation (Admin & Utilisateur)",
+      "Description": "Plateforme complète de réservation de sièges et de billetterie développée avec <span class='underline'>.NET</span> et <span class='underline'>Angular</span>. Elle se compose de deux applications intégrées :<span class='underline block'>Panneau Administrateur :</span> Permet aux organisateurs de configurer des événements, gérer les plans de salle, suivre les réservations, contrôler les ventes et gérer les utilisateurs. Inclut des outils de reporting et des fonctionnalités pour une gestion fluide.<span class='underline block'>Application Utilisateur :</span> Offre aux clients une carte interactive des sièges pour consulter les événements, choisir leurs places et acheter leurs billets en toute sécurité. Le système garantit la disponibilité en temps réel et évite les doubles réservations. Ce projet illustre une expertise en développement full stack, intégration d’API, gestion de bases de données et création d’applications évolutives.",
+      "imgs": [
+        "assets/images/projects/booking1.PNG",
+        "assets/images/projects/booking2.PNG",
+        "assets/images/projects/booking3.PNG",
+        "assets/images/projects/booking4.PNG",
+        "assets/images/projects/booking5.PNG",
+        "assets/images/projects/booking6.PNG"
+      ],
+      "Technologies": [".Net", "Angular", "SQL Server", "Angular Material", "Signal R"]
+    }
+  ],
+
+  "OtherProjects.Title": "Autres Projets",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Contrôle Statistique des Procédés (SPC)",
+      "Description": "Application de gestion de la qualité (MSP). Inclut les études de capabilité avec calculs mathématiques et diagrammes de Gauss/Henry, les cartes de contrôle pour l’enregistrement et l’affichage des échantillons, ainsi que le contrôle par lots pour vérifier les anomalies.",
+      "imgs": [],
+      "ghLink": "",
+      "demoLink": "",
+      "Technologies": [".NET Core", "Angular", "SQL Server"]
+    },
+    {
+      "Title": "Gestion de Projets",
+      "Description": "Système de gestion des rôles, types de projets, statuts, propriétés, phases et tâches. Intègre un suivi de l’avancement à l’aide de diagrammes de Gantt.",
+      "imgs": [],
+      "ghLink": "",
+      "demoLink": "",
+      "Technologies": [".NET 7", "Angular 14", "SQL Server"]
+    },
+    {
+      "Title": "Checklist",
+      "Description": "Application permettant de gérer les thèmes, critères, champs configurables, niveaux de conformité et checklists. Possibilité de lier des checklists aux thèmes/critères et de saisir les données via des formulaires structurés.",
+      "imgs": [],
+      "ghLink": "",
+      "demoLink": "",
+      "Technologies": [".NET 7", "Angular 14", "SQL Server"]
+    },
+    {
+      "Title": "Gestion des Réclamations Clients",
+      "Description": "Plateforme pour centraliser et suivre les réclamations clients, coordonner les actions correctives et assurer le suivi jusqu’à leur clôture.",
+      "imgs": [],
+      "ghLink": "",
+      "demoLink": "",
+      "Technologies": [".NET 7", "Angular 14", "SQL Server"]
+    },
+    {
+      "Title": "IXITemplate",
+      "Description": "Modèle de base conçu pour les projets IXIN. Comprend la gestion des administrateurs et des utilisateurs afin de standardiser et accélérer le développement de nouveaux projets.",
+      "imgs": [],
+      "ghLink": "",
+      "demoLink": "",
+      "Technologies": [".NET 7", "Angular 17", "PostgreSQL"]
+    },
+    {
+      "Title": "Chargement et Agrégation de Données",
+      "Description": "Projet destiné à intercepter des données depuis des API externes et à les stocker dans une base interne pour l’analyse et le reporting.",
+      "imgs": [],
+      "ghLink": "",
+      "demoLink": "",
+      "Technologies": [".NET 7", "Angular 17", "PostgreSQL"]
+    },
+    {
+      "Title": "IXIMap",
+      "Description": "Application cartographique interactive utilisant Kendo Map pour visualiser des données géospatiales avec zoom, filtres et superpositions.",
+      "imgs": [],
+      "ghLink": "",
+      "demoLink": "",
+      "Technologies": ["Angular", "Kendo UI", ".NET"]
+    },
+    {
+      "Title": "Kahraman",
+      "Description": "Projet freelance pour Katara. Comprend la gestion des administrateurs et utilisateurs, la gestion des produits et l’affichage détaillé avec enchères.",
+      "imgs": [],
+      "ghLink": "",
+      "demoLink": "",
+      "Technologies": [".NET 7", "Angular 14", "SQL Server"]
+    },
+    {
+      "Title": "Shail",
+      "Description": "Projet freelance pour Katara. Inclut la gestion des utilisateurs, la gestion des comptes entreprises et un module de gestion des mails intégré.",
+      "imgs": [],
+      "ghLink": "",
+      "demoLink": "",
+      "Technologies": [".NET 7", "Angular 14", "SQL Server"]
+    }
+  ],
+
+  "Contact.Pretitle": "Et après ?",
+  "Contact.Title": "Contactez-moi",
+  "Contact.Content": "Je serai ravi d’échanger avec vous si vous souhaitez discuter de nouvelles opportunités. Écrivez-moi, et je vous répondrai dès que possible.",
+  "Contact.Btn": "Envoyer un message"
+}
